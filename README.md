@@ -8,7 +8,7 @@ An analog photography centered light meter based on a TEMT6000 ambient light sen
 - [x] Implement Aperture Priority Mode.
 - [ ] Implement Shutter Priority Mode.
 - [ ] Design PCB.
-- [ ] Build Credit Card Sized Lightmeter
+- [ ] Build Credit Card Sized Lightmeter.
 
 ### Known Issues
 * Find a way to measure more than ~1000 lux with the sensor.

@@ -1,5 +1,5 @@
 # lightmeter-32u4
-A TEMT6000 based light meter running off of a ATmega32U4 microcontroller.
+An analog photography centered light meter based on a TEMT6000 ambient light sensor running off an Arduino Pro Micro [ATmega32U4].
 
 ### Current iteration: Prototype 0.1
 

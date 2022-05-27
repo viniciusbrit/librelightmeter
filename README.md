@@ -3,7 +3,13 @@ An analog photography centered light meter based on a TEMT6000 ambient light sen
 
 ### Current iteration: Prototype 0.1
 
-### To do:
+### Project Progress
+- [x] Build A Prototype.
+- [x] Implement Aperture Priority Mode.
+- [ ] Implement Shutter Priority Mode.
+- [ ] Design PCB.
+- [ ] Build Credit Card Sized Lightmeter
+
+### Known Issues
 * Find a way to measure more than ~1000 lux with the sensor.
-* Implement Shutter Priority mode.
 * Make it so measured value does not change when changing ISO.

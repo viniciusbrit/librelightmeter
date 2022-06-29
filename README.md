@@ -11,10 +11,10 @@ A light meter designed for analog photography based on an ~~a TEMT6000~~ ambient
 - [ ] Write firmware.
 
 ### Known Issues
-* Find a way to measure more than 1000 lux with the sensor. 
+- [x] Find a way to measure more than 1000 lux with the sensor. 
   > Unfixable.
   > The TEMT6000 sensor only measures up to around 1000 lux. There's no way to circumvent this without blocking the amount of light the sensor reads somehow.
-* Make it so measured value does not change when changing ISO.
+- [ ] Make it so measured value does not change when changing ISO.
 
 ### Licenses
 CERN Open Hardware Licence Version 2.0 - Strongly Reciprocal

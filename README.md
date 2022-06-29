@@ -13,5 +13,5 @@ The 3D models in the repository are of this prototype, which was made with sever
 - [ ] Write full firmware.
 
 ### Licenses
-CERN Open Hardware Licence Version 2.0 - Strongly Reciprocal
-GNU GENERAL PUBLIC LICENSE Verson 3.0
+* CERN Open Hardware Licence Version 2.0 - Strongly Reciprocal.
+* GNU GENERAL PUBLIC LICENSE Verson 3.0.

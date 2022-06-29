@@ -1,5 +1,5 @@
 # librelightmeter
-A light meter designed for analog photography based on an ~~a TEMT6000~~ ambient light sensor running off a microcontroller. ~~an Arduino Pro Micro [ATmega32U4]~~.
+A light meter designed for analog photography based on an ambient light sensor running off an ATMega microcontroller.
 
 ### Current iteration: Prototype 0.1
 <img src="https://imgur.com/pm2ZVXc.png" width=40% height=40%>

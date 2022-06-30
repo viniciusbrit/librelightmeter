@@ -1,7 +1,7 @@
 # librelightmeter
 A light meter designed for analog photography based on an ambient light sensor running off an ATMega microcontroller.
 
-### Current Iteration: Prototype 0.1
+### Current Iteration: Prototype 0.2 [TESTING ONGOING]
 <img src="https://imgur.com/pm2ZVXc.png" width=40% height=40%>
 The 3D models in the repository are of this prototype, which was made with several off the shelf parts in a protoboard. They are there for archival purposes only.
 

@@ -8,7 +8,7 @@ The 3D models in the repository are of this prototype, which was made with sever
 ### Project Progress
 - [x] Build A Prototype.
 - [x] Find Sensor With Enough Range.
-  > Currently deciding between BH1680 and BH1751.
+  > Decided on the BH1751 for it's better measurement range.
 - [x] Find another cheaper microcontroller.
   > Decided on the ATMega328P-AU due to it's popularity.
 - [ ] Design Version 1.0 Handheld PCB.

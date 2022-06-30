@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Imported Components")(type "KiCad")(uri "${KIPRJMOD}/Imported Components")(options "")(descr ""))
+)

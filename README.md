@@ -1,5 +1,5 @@
 # librelightmeter
-A light meter designed for analog photography based on an ambient light sensor running off an ATMega microcontroller.
+A light meter designed for analog photography based on a BH1751 ambient light sensor running off of an ATMega328P microcontroller.
 
 ### Current Iteration: Prototype 0.2 [TESTING ONGOING]
 <img src="https://imgur.com/pm2ZVXc.png" width=40% height=40%>

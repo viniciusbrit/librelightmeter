@@ -15,6 +15,7 @@ The 3D models in the repository are of this prototype, which was made with sever
   > Decided on the BH1751 for it's better measurement range.
 - [x] Find Adequate Cheap Microcontroller.
   > Decided on the ATMega328P-AU due to it's popularity.
+- [ ] Build Prototype With New Parts.
 - [ ] Design Version 1.0 Handheld PCB.
 - [ ] Write Full Firmware.
 - [ ] Design Hot-Shoe Mounted Alternative.
